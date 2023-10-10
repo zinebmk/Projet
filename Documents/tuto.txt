@@ -8,4 +8,5 @@ npm init dans le dossier
 npm install express --save
 npm install -g nodemon
 
-
+lancement du serveur:
+nodemon .\server.js

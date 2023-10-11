@@ -1,7 +1,3 @@
-pdf qui s'ouvre avec tous les navigateurs?
-pdf qui s'ouvre avec adobe?
-base de donnée dans un fichier ou il faut la créer?
-
 Installer nodejs
 verifier l'installation : node -v   npm -v
 npm init dans le dossier
